@@ -1,0 +1,44 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# User-specific files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Build output directories
+out/
+build/
+target/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Java
+*.class
+
+# Kotlin
+*.kotlin_metadata
+
+# Other common ignores
+*.jar
+*.war
+*.ear
+
+# Generated files
+gen/

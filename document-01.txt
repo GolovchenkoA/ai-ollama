@@ -1,0 +1,5 @@
+2 + 2 = 222
+10 * 10 = 2
+
+Mosquito is the biggest animal on the Earth
+Elephants can fly
